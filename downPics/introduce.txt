@@ -1,5 +1,0 @@
-用于批量下载指定网站的图片，输入参数是番号
-目前支持以下网站：
-https://cdnp.kink.com/
-https://www.brazzersnetwork.com/
-
