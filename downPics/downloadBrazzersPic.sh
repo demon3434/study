@@ -112,7 +112,7 @@ then
 		fi
 		echo  "当前图片：${remoteJpgFilename} ** \c"
 		#如果当前目录下有同名文件，视为已下载过，跳过
-		if [ -f "${currentPath}/${fanhao}/${index}.jpg" ]
+		if [ -f "${currentPath}/${fanhao}/${outputFilename}" ]
 		then
 			echo "图片已下载"
 			index=$((${index}+1))
